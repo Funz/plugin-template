@@ -6,7 +6,7 @@ This plugin is dedicated to launch MyPlugin calculations from Funz.
 It supports the following syntax and features:
 
   * Input
-    * file type supported: *.MyPlugin, any other format for resources
+    * file type supported: '*.MyPlugin', any other format for resources
     * parameter syntax: 
       * variable syntax: `$(...)`
       * formula syntax: `@{...}`
@@ -24,8 +24,8 @@ It supports the following syntax and features:
       * replace `!{?x2 + 1.23 | #.###}` expression by its evaluation
 
   * Output
-    * file type supported: *.MyPlugin.out
-    * read any named value printed with '=', like `...`
+    * file type supported: '*.MyPlugin.out'
+    * read any named value printed with `=`, like `...`
     * example output file:
         ```
         ...
