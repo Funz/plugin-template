@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/Funz/plugin-MyPlugin.png)](https://travis-ci.org/Funz/plugin-MyPlugin)
 
+___This repositry is intended to be forked as a basis for an new plugin implementation.___
+___You can search for "MyPlugin" as a key to replace everywhere in this directory.___
+
 # Funz plugin: MyPlugin
 
 This plugin is dedicated to launch MyPlugin calculations from Funz.
