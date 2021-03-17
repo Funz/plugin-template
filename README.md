@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Funz/plugin-MyPlugin.png)](https://travis-ci.org/Funz/plugin-MyPlugin)
+[![.github/workflows/ant.yml](https://github.com/Funz/plugin-MyPlugin/actions/workflows/ant.yml/badge.svg)](https://github.com/Funz/plugin-MyPlugin/actions/workflows/ant.yml)
 
 ___This repositry is intended to be forked as a basis for an new plugin implementation.___
 ___You can search for "MyPlugin" as a key to replace everywhere in this directory.___
